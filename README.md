@@ -5,6 +5,8 @@ define apiKey in your local.properties
 
 apiKey=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+![Image description](https://github.com/luiscastrodev/AppNewsChallenge/blob/main/config.png)
+
 
 News App
 Using the API from https://newsapi.org/ API News Is JSON API for live news and blog articles from the media. 
