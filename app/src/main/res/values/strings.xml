@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Critical-Techworks-Challenge</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_details">Detalhes</string>
+
+    <string name="no_data">NO DATA TO SHOW</string>
+
+</resources>
