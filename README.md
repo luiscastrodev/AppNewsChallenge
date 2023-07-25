@@ -1,2 +1,2 @@
 # AppNewsChallenge
- App News Techworks NewsAPI
+ App News - Techworks
